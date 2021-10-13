@@ -1,2 +1,2 @@
 # day
-Chech the day for entered date.
+Check the day for entered date.
